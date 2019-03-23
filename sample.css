@@ -1,0 +1,9 @@
+html{
+  background-color: black;
+  color: white;
+  font-size: 200%;
+}
+.br_point:before {
+  content: '\A\A\A\A\A\A\A\A\A\A\A\A\A\A\A\A\A\A\A\A\A\A\A\A\A\A\A\A\A\A\A\A\A\A\A\A\A\A\A\A\A\A\A\A\A\A\A';
+  white-space: pre;
+}
